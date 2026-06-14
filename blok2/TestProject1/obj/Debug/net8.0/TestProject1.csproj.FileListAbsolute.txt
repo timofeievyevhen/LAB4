@@ -1,0 +1,6 @@
+C:\Users\Женя\Desktop\ConsoleApp8\TestProject1\bin\Debug\net8.0\.msCoverageSourceRootsMapping_TestProject1
+C:\Users\Женя\Desktop\ConsoleApp8\TestProject1\obj\Debug\net8.0\TestProject1.csproj.AssemblyReference.cache
+C:\Users\Женя\Desktop\ConsoleApp8\TestProject1\obj\Debug\net8.0\TestProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Женя\Desktop\ConsoleApp8\TestProject1\obj\Debug\net8.0\TestProject1.AssemblyInfoInputs.cache
+C:\Users\Женя\Desktop\ConsoleApp8\TestProject1\obj\Debug\net8.0\TestProject1.AssemblyInfo.cs
+C:\Users\Женя\Desktop\ConsoleApp8\TestProject1\obj\Debug\net8.0\TestProject1.csproj.CoreCompileInputs.cache
